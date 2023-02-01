@@ -1,1 +1,2 @@
 # Bot Clime
+Esta é uma ferramenta que raspa informações sobre o clima em uma cidade específica (neste caso, Campinas) da internet, usando o BeautifulSoup e o Google, e envia uma mensagem via Telegram para um grupo ou usuário específico se o tempo na cidade estiver com tempestades isoladas com raios e trovões ou chuvas com trovoadas. A ferramenta é executada em loop, verificando periodicamente o clima e enviando a mensagem se necessário.
