@@ -9,7 +9,8 @@ TOKEN = "Token bot"
 bot = telebot.TeleBot(TOKEN)
 id_chat = 12545889
 
-url = "https://www.google.com/search?q=clima+campinas&sxsrf=AJOqlzUHDIag45-tDoDz-KfDIuJlBvB3sA%3A1674139249751&ei=cVbJY6S5LZHS1sQP5JWa2A0&oq=clima+uba&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMg0IABCABBCxAxBGEIACMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABBHENYEELADOgcIABCwAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwFKBAhBGABKBAhGGABQ7RZY-Rlg1ypoAnABeACAAXqIAc0CkgEDMS4ymAEAoAEByAEKwAEB&sclient=gws-wiz-serp"
+url = " "
+
 headers = {
     'User-Agent': "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
 
